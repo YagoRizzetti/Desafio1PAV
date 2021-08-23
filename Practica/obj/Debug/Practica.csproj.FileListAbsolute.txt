@@ -1,0 +1,11 @@
+C:\Users\ASUS\Desktop\FACULTAD\Tercer Año\Programacion de Aplicaciones visuales\Practica\bin\Debug\Practica.exe.config
+C:\Users\ASUS\Desktop\FACULTAD\Tercer Año\Programacion de Aplicaciones visuales\Practica\bin\Debug\Practica.exe
+C:\Users\ASUS\Desktop\FACULTAD\Tercer Año\Programacion de Aplicaciones visuales\Practica\bin\Debug\Practica.pdb
+C:\Users\ASUS\Desktop\FACULTAD\Tercer Año\Programacion de Aplicaciones visuales\Practica\obj\Debug\Practica.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\FACULTAD\Tercer Año\Programacion de Aplicaciones visuales\Practica\obj\Debug\Practica.Properties.Resources.resources
+C:\Users\ASUS\Desktop\FACULTAD\Tercer Año\Programacion de Aplicaciones visuales\Practica\obj\Debug\Practica.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\FACULTAD\Tercer Año\Programacion de Aplicaciones visuales\Practica\obj\Debug\Practica.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\FACULTAD\Tercer Año\Programacion de Aplicaciones visuales\Practica\obj\Debug\Practica.exe
+C:\Users\ASUS\Desktop\FACULTAD\Tercer Año\Programacion de Aplicaciones visuales\Practica\obj\Debug\Practica.pdb
+C:\Users\ASUS\Desktop\FACULTAD\Tercer Año\Programacion de Aplicaciones visuales\Practica\obj\Debug\Practica.Login.resources
+C:\Users\ASUS\Desktop\FACULTAD\Tercer Año\Programacion de Aplicaciones visuales\Practica\obj\Debug\Practica.Principal.resources
